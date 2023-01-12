@@ -1,6 +1,6 @@
 Projeto de site de adoção de pets - Intensivo da pysteckweek
 
-Começamos com o sistema de registro, login, login e logout, por ser um projeto realizado em apenas 3 dias e
+Começamos com o sistema de registro, login e logout, por ser um projeto realizado em apenas 3 dias e
 sendo o foco em aprender e fixar conhecimentos em django, não nos aprofundamos muito no front-end, mas sim no
 back-end.
 
