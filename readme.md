@@ -1,13 +1,6 @@
 Projeto de site de adoção de pets em python e django.
 
-Começamos com o sistema de registro, login e logout, por ser um projeto realizado em apenas 3 dias e
-sendo o foco em aprender e fixar conhecimentos em django, não nos aprofundamos muito no front-end, mas sim no
-back-end.
+O projeto consiste em um site de adoção de pets, onde o usuário se registra, e de forma simples consegue ver e escolher qual pet quer adotar, também podendo
+colocar algum pet para a adoção, contendo cidade, e contato com quem postou o anúncio do pet.
 
-O projeto inclui funcionalidades principais no back-end de sites, como login, logout, registro, banco de dados,
-área administrativa e diversos.
-
-Pretendo incluir futuramente novas funcionalidades, e aprofundar mais ainda, assim que tive uma base mais sólida
-em django, html e css.
-
-Por ser um projeto simples, é de fácil entendimento.
+Ao escolher o seu novo amigo, pode mandar um aviso a pessoa a quem colocou o pet para adoção, assim a pessoa podendo aceitar ou recusar a adoção.
