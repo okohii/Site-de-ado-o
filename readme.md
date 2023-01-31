@@ -1,4 +1,4 @@
-Projeto de site de adoção de pets
+Projeto de site de adoção de pets em python e django.
 
 Começamos com o sistema de registro, login e logout, por ser um projeto realizado em apenas 3 dias e
 sendo o foco em aprender e fixar conhecimentos em django, não nos aprofundamos muito no front-end, mas sim no
