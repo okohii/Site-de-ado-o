@@ -1,4 +1,4 @@
-Projeto de site de adoção de pets em python e django.
+Projeto de site de adoção de pets em Python e Django.
 
 O projeto consiste em um site de adoção de pets, onde o usuário se registra, e de forma simples consegue ver e escolher qual pet quer adotar, também podendo
 colocar algum pet para a adoção, contendo cidade, e contato com quem postou o anúncio do pet.
